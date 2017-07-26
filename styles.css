@@ -27,6 +27,10 @@ header p {
   font-weight: 300;
 }
 
+a {
+  text-decoration: none;
+}
+
 #party {
   color: #34D1D1;
 }
